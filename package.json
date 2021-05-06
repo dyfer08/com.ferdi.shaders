@@ -1,0 +1,20 @@
+{
+  "name": "com.ferdi.shaders",
+  "version": "0.1.0",
+  "displayName": "Shader Graph Collection",
+  "description": "A collection of shaders for the shader graph 10 and URP.",
+  "unity": "2020.3",
+  "keywords": [
+    "Ferdi",
+    "Shader",
+    "Graph"
+  ],
+  "author": {
+    "name": "Ferdi",
+    "email": "dervieuxferdinand@gmail.com",
+    "url": "https://ferdinanddervieux.com"
+  },
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "10.4.0"
+  }
+}
