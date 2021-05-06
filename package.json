@@ -1,6 +1,6 @@
 {
   "name": "com.ferdi.shaders",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Shader Graph Collection",
   "description": "A collection of shaders for the shader graph 10 and URP.",
   "unity": "2020.3",
